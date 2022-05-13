@@ -8,7 +8,7 @@
 ##
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Joao-Java" height="30" width="40" src="<i class=devicon-java-plain-wordmark"></i>"
+  <img align="center" alt="Joao-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
   <img align="center" alt="Joao-C" height="30" width="40" src="<i class=devicon-c-line-wordmark"></i>"
   <img align="center" alt="Joao-C#" height="30" width="40" src="<i class=devicon-csharp-line-wordmark"></i>"
 </div>
