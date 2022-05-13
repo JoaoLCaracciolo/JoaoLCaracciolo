@@ -12,5 +12,3 @@
 </div>
 
 ##
-
- ![Snake animation](https://github.com/caracciolojl/caracciolojl/blob/output/github-contribution-grid-snake.svg)
